@@ -39,5 +39,3 @@ Includes entities for guests, rooms and bookings, sample inserts and useful quer
 - `check_in DATE`, `check_out DATE`
 
 (Full DDL + inserts are in `Hotel Reservation System.sql`.)
-
----
